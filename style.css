@@ -1,14 +1,4 @@
-
-
-body {
-    margin: 0;
-    padding: 0;
-    margin: 10px;
-    padding: 10px;
+.main {
+    background-color: royalblue;
+    color:rgb(227, 233, 221);
 }
-
-h1 {
-    padding-bottom: 20px;
-    -o-animation-delay: ;    
-}
-
